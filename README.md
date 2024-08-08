@@ -35,13 +35,8 @@ For any questions or inquiries, please contact:
 
 - **Email:** [rajmilton55555@gmail.com](mailto:rajmilton55555@gmail.com)
 
+© 2024 Raj Milton. All rights reserved.
+
 ## Contributing
 
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and test them.
-4. Submit a pull request with a description of the changes.
-
-  Copyright © 2024 Raj Milton. All rights reserved.
+If you have any suggestions or improvements, please open an issue or submit a pull request.
