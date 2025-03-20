@@ -3,7 +3,7 @@
 ## Overview
 ![Untitled designg](https://github.com/user-attachments/assets/4e496d2e-4682-4bcd-8e64-fd7519fd98ac)
 
-Welcome to **Medi Mint India**, a platform designed to simplify access to medications and related services. Our project features a user-friendly interface that includes search functionality, a registration form for medications, and comprehensive category options to help users find the medications they need easily.
+Welcome to **Medi Mint India**, a platform designed to simplify access to medications and related services. Our project features a user-friendly interface that includes search functionality, a registration form for medications, and comprehensive category options to help users find the medications ,they need easily.
 [Visit Medi Mint India](https://rajmiltonn.github.io/Medi-Mint-Indiaa-Pharmacy/)
 
 ## Features
